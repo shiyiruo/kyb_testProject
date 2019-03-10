@@ -1,0 +1,12 @@
+platformName: Android
+platformVersion: 7.0
+deviceName: EVA-TL00
+udid: B2T0216420015286
+appname: kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: False
+ip: 127.0.0.1
+port: 4723

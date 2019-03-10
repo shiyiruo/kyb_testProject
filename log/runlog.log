@@ -1,0 +1,1197 @@
+2019-02-28 15:57:47,428 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 15:58:07,716 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 15:58:08,503 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 15:58:11,671 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 16:00:34,211 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:00:46,979 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:00:47,796 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:00:50,935 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 16:03:09,452 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:03:22,080 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:03:22,919 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:03:26,053 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 16:03:37,225 common_fun.py[line:29] INFO skip element is not found
+2019-02-28 16:11:40,907 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:11:54,361 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:11:55,135 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:11:58,275 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 16:12:10,951 common_fun.py[line:29] INFO skip element is not found
+2019-02-28 16:12:52,196 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:13:04,587 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:13:05,368 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:14:00,003 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:14:11,877 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:14:12,645 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:14:16,335 common_fun.py[line:53] INFO get startapp screenshot
+2019-02-28 16:17:11,088 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:17:22,506 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:17:23,458 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:17:27,187 common_fun.py[line:53] INFO get startapp screenshot
+2019-02-28 16:18:12,305 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 16:18:24,192 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 16:18:24,947 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 16:18:28,670 common_fun.py[line:53] INFO get startapp screenshot
+2019-02-28 19:05:05,779 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 19:05:16,550 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 19:05:17,274 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 19:05:20,400 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 19:05:34,881 common_fun.py[line:29] INFO skip element is not found
+2019-02-28 19:07:52,781 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 19:08:04,278 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 19:08:05,024 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 19:08:08,147 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 19:08:21,097 common_fun.py[line:29] INFO skip element is not found
+2019-02-28 19:12:25,685 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 19:12:36,812 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 19:12:37,536 common_fun.py[line:21] INFO click cancleBtn
+2019-02-28 19:12:45,663 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 19:12:55,700 common_fun.py[line:29] INFO skip element is not found
+2019-02-28 19:27:17,645 desired_caps.py[line:33] INFO start run app ...
+2019-02-28 19:27:28,033 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-02-28 19:27:38,109 common_fun.py[line:19] INFO updata element is not found
+2019-02-28 19:27:38,109 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-02-28 19:27:48,366 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 14:14:22,814 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:14:37,309 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 14:14:38,185 common_fun.py[line:21] INFO click cancleBtn
+2019-03-01 14:14:41,329 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 14:14:52,019 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 14:14:52,020 loginView.py[line:22] INFO ===============login start===============
+2019-03-01 14:14:52,020 loginView.py[line:23] INFO input username 自学网2018
+2019-03-01 14:15:31,510 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:15:43,304 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 14:15:53,384 common_fun.py[line:19] INFO updata element is not found
+2019-03-01 14:15:53,384 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 14:16:03,689 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 14:16:03,689 loginView.py[line:22] INFO ===============login start===============
+2019-03-01 14:16:03,705 loginView.py[line:23] INFO input username 自学网2018
+2019-03-01 14:16:09,179 loginView.py[line:25] INFO input password zxw2018
+2019-03-01 14:16:15,459 loginView.py[line:28] INFO ===============login end===============
+2019-03-01 14:16:25,900 loginView.py[line:35] ERROR login fail
+2019-03-01 14:16:25,901 common_fun.py[line:54] INFO get login fail screenshot
+2019-03-01 14:17:09,243 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:17:20,976 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 14:17:31,239 common_fun.py[line:19] INFO updata element is not found
+2019-03-01 14:17:31,239 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 14:17:41,617 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 14:17:41,618 loginView.py[line:22] INFO ===============login start===============
+2019-03-01 14:17:41,618 loginView.py[line:23] INFO input username 自学网2018
+2019-03-01 14:17:46,721 loginView.py[line:25] INFO input password zxw2018
+2019-03-01 14:17:52,904 loginView.py[line:28] INFO ===============login end===============
+2019-03-01 14:17:56,934 loginView.py[line:39] INFO login success
+2019-03-01 14:17:56,934 loginView.py[line:44] INFO ===============logout start===============
+2019-03-01 14:17:59,453 loginView.py[line:48] INFO ===============logout end===============
+2019-03-01 14:18:22,767 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:18:34,487 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 14:18:44,533 common_fun.py[line:19] INFO updata element is not found
+2019-03-01 14:18:44,534 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 14:23:19,204 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:27:42,697 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:27:52,748 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 14:28:02,755 common_fun.py[line:20] INFO updata element is not found
+2019-03-01 14:28:28,323 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 14:28:41,721 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 14:28:42,513 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:03:04,707 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:03:37,053 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:03:48,360 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 16:03:49,112 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:04:50,408 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:05:03,199 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 16:05:04,010 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:16:31,343 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:16:42,010 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 16:16:47,463 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:17:23,064 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:17:35,100 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 16:17:35,890 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:18:07,190 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:18:19,084 common_fun.py[line:16] INFO ============check_cancelBtn===============
+2019-03-01 16:18:19,858 common_fun.py[line:22] INFO click cancleBtn
+2019-03-01 16:22:40,514 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:22:52,256 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 16:22:53,023 common_fun.py[line:21] INFO click cancleBtn
+2019-03-01 16:22:56,156 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 16:41:45,749 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:42:03,332 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:42:15,713 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 16:42:16,291 common_fun.py[line:21] INFO click cancleBtn
+2019-03-01 16:42:19,931 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 16:42:32,596 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 16:46:18,556 desired_caps.py[line:33] INFO start run app ...
+2019-03-01 16:46:30,477 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-01 16:46:31,180 common_fun.py[line:21] INFO click cancleBtn
+2019-03-01 16:46:34,307 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-01 16:46:50,042 common_fun.py[line:29] INFO skip element is not found
+2019-03-01 16:46:50,140 loginView.py[line:23] INFO ===============login start===============
+2019-03-01 16:46:50,140 loginView.py[line:24] INFO input username 自学网2018
+2019-03-01 16:46:56,141 loginView.py[line:26] INFO input password zxw2018
+2019-03-01 16:47:02,493 loginView.py[line:29] INFO ===============login end===============
+2019-03-01 16:47:05,392 loginView.py[line:40] INFO login success
+2019-03-01 16:47:05,392 loginView.py[line:45] INFO ===============logout start===============
+2019-03-01 16:47:07,891 loginView.py[line:49] INFO ===============logout end===============
+2019-03-03 16:21:33,509 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:22:06,287 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:22:16,464 common_fun.py[line:19] INFO updata element is not found
+2019-03-03 16:22:16,464 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:22:36,688 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:22:48,008 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:22:58,888 common_fun.py[line:21] INFO click cancleBtn
+2019-03-03 16:23:02,046 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:23:16,990 common_fun.py[line:29] INFO skip element is not found
+2019-03-03 16:23:17,084 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:23:18,037 registerView.py[line:40] INFO set userheader
+2019-03-03 16:24:49,381 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:24:59,471 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:25:09,520 common_fun.py[line:19] INFO updata element is not found
+2019-03-03 16:25:09,520 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:25:22,428 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:25:33,684 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:25:43,732 common_fun.py[line:19] INFO updata element is not found
+2019-03-03 16:25:43,732 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:26:11,566 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:26:22,800 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:26:32,942 common_fun.py[line:19] INFO updata element is not found
+2019-03-03 16:26:32,958 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:27:13,775 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:27:25,027 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:27:35,240 common_fun.py[line:19] INFO updata element is not found
+2019-03-03 16:27:35,240 common_fun.py[line:25] INFO ============check_skiplBtn===============
+2019-03-03 16:28:24,943 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:28:35,826 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:28:46,626 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:28:50,298 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:29:06,788 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:29:06,897 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:29:07,836 registerView.py[line:40] INFO set userheader
+2019-03-03 16:30:22,575 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:30:33,714 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:30:44,841 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:30:47,984 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:31:04,756 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:31:04,850 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:31:05,803 registerView.py[line:40] INFO set userheader
+2019-03-03 16:33:48,539 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:33:59,526 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:34:10,748 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:34:13,921 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:34:33,727 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:34:33,821 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:34:34,759 registerView.py[line:40] INFO set userheader
+2019-03-03 16:43:58,049 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:44:08,947 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:44:20,081 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:44:23,224 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:44:40,512 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:44:40,590 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:44:41,529 registerView.py[line:40] INFO set userheader
+2019-03-03 16:45:57,884 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:46:08,292 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:46:19,377 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:46:22,522 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:46:38,541 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:46:38,619 registerView.py[line:37] INFO ===============register start===============
+2019-03-03 16:46:39,568 registerView.py[line:40] INFO set userheader
+2019-03-03 16:52:10,938 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:52:21,897 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:52:34,344 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:52:37,504 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:52:58,113 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:52:58,206 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 16:52:59,137 registerView.py[line:41] INFO set userheader
+2019-03-03 16:56:56,383 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:57:07,044 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:57:18,028 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:57:21,182 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:57:37,666 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:57:37,744 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 16:57:38,689 registerView.py[line:41] INFO set userheader
+2019-03-03 16:58:47,357 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 16:58:58,624 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 16:59:11,046 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 16:59:14,701 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 16:59:31,962 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 16:59:32,055 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 16:59:32,995 registerView.py[line:41] INFO set userheader
+2019-03-03 17:02:27,077 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 17:02:37,535 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 17:02:48,889 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 17:02:52,042 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 17:03:08,528 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 17:03:08,590 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 17:03:09,534 registerView.py[line:41] INFO set userheader
+2019-03-03 17:03:50,766 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 17:04:01,714 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 17:04:14,241 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 17:04:17,359 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 17:04:37,139 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 17:04:37,217 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 17:04:38,160 registerView.py[line:47] INFO register username is ceshi258
+2019-03-03 17:04:43,592 registerView.py[line:49] INFO register password is pass1234
+2019-03-03 17:04:49,593 registerView.py[line:51] INFO register email is 621193@qq.com
+2019-03-03 17:05:06,041 registerView.py[line:57] INFO register fail
+2019-03-03 17:05:06,042 common_fun.py[line:57] INFO get register fail screenshot
+2019-03-03 17:06:46,241 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 17:06:55,739 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 17:07:06,904 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 17:07:10,054 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 17:07:30,372 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 17:07:30,450 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 17:07:31,405 registerView.py[line:47] INFO register username is ceshi893
+2019-03-03 17:07:36,962 registerView.py[line:49] INFO register password is pass1234
+2019-03-03 17:07:42,938 registerView.py[line:51] INFO register email is 762113@qq.com
+2019-03-03 17:07:48,685 registerView.py[line:53] INFO click register button
+2019-03-03 17:07:52,413 registerView.py[line:70] INFO ===============add register info===============
+2019-03-03 17:07:52,414 registerView.py[line:71] INFO select school...
+2019-03-03 17:07:55,182 registerView.py[line:76] INFO select major...
+2019-03-03 17:08:02,728 registerView.py[line:90] INFO register fail
+2019-03-03 17:08:02,728 common_fun.py[line:57] INFO get register fail screenshot
+2019-03-03 17:09:50,950 desired_caps.py[line:33] INFO start run app ...
+2019-03-03 17:10:00,905 common_fun.py[line:15] INFO ============check_cancelBtn===============
+2019-03-03 17:10:12,805 common_fun.py[line:22] INFO click cancleBtn
+2019-03-03 17:10:15,960 common_fun.py[line:26] INFO ============check_skiplBtn===============
+2019-03-03 17:10:31,997 common_fun.py[line:31] INFO skip element is not found
+2019-03-03 17:10:32,091 registerView.py[line:38] INFO ===============register start===============
+2019-03-03 17:10:33,053 registerView.py[line:47] INFO register username is ceshi240
+2019-03-03 17:10:38,828 registerView.py[line:49] INFO register password is pass1234
+2019-03-03 17:10:44,690 registerView.py[line:51] INFO register email is 357726@qq.com
+2019-03-03 17:10:50,893 registerView.py[line:53] INFO click register button
+2019-03-03 17:10:55,208 registerView.py[line:70] INFO ===============add register info===============
+2019-03-03 17:10:55,208 registerView.py[line:71] INFO select school...
+2019-03-03 17:10:57,560 registerView.py[line:76] INFO select major...
+2019-03-03 17:11:04,978 registerView.py[line:94] INFO register success
+2019-03-04 18:51:45,445 myunit.py[line:8] INFO ======setUp=========
+2019-03-04 18:51:45,456 desired_caps.py[line:33] INFO start run app ...
+2019-03-04 18:52:22,744 test_register.py[line:10] INFO =========test_user_register======
+2019-03-04 18:52:22,745 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-04 18:52:27,794 common_fun.py[line:24] INFO click cancleBtn
+2019-03-04 18:52:30,955 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-04 18:52:48,689 common_fun.py[line:33] INFO skip element is not found
+2019-03-04 18:52:48,799 registerView.py[line:38] INFO ===============register start===============
+2019-03-04 18:52:49,760 registerView.py[line:47] INFO register username is ceshi784
+2019-03-04 18:52:55,394 registerView.py[line:49] INFO register password is pass1234
+2019-03-04 18:53:01,308 registerView.py[line:51] INFO register email is 487804@qq.com
+2019-03-04 18:53:07,048 registerView.py[line:53] INFO click register button
+2019-03-04 18:53:10,831 registerView.py[line:70] INFO ===============add register info===============
+2019-03-04 18:53:10,832 registerView.py[line:71] INFO select school...
+2019-03-04 18:53:13,432 registerView.py[line:76] INFO select major...
+2019-03-04 18:53:20,372 registerView.py[line:94] INFO register success
+2019-03-04 18:53:20,373 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:09:48,261 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:09:48,287 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:10:06,864 test_login.py[line:17] INFO ==========test_login_zxw2018========
+2019-03-05 14:10:06,864 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:10:06,907 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:10:11,967 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:10:15,146 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:10:35,894 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:10:35,970 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:10:35,971 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 14:10:41,624 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 14:10:47,919 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:10:51,552 loginView.py[line:40] INFO login success
+2019-03-05 14:10:51,553 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:10:54,308 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:10:54,309 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:12:39,341 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:12:39,347 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:12:50,936 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:12:50,937 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:12:50,945 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:12:55,971 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:12:59,110 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:13:19,707 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:13:19,815 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:13:19,816 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:13:25,953 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:13:32,181 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:13:36,636 loginView.py[line:40] INFO login success
+2019-03-05 14:13:36,636 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:13:38,825 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:13:38,826 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:13:44,559 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:13:44,575 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:13:57,072 test_login.py[line:17] INFO ==========test_login_zxw2018========
+2019-03-05 14:13:57,072 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:13:57,073 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:14:02,111 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:14:05,243 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:14:21,276 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:14:21,369 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:14:21,370 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 14:14:27,472 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 14:14:33,795 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:14:47,496 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:14:47,501 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:14:59,348 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:14:59,348 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:14:59,351 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:15:04,372 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:15:07,503 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:15:26,733 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:15:26,817 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:15:26,817 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:15:32,450 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:15:38,605 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:15:43,888 loginView.py[line:40] INFO login success
+2019-03-05 14:15:43,889 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:15:46,661 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:15:46,661 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:16:07,040 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:16:07,046 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:18:16,831 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:18:16,835 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:18:27,761 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:18:27,761 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:18:27,764 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:18:32,785 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:18:35,923 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:18:55,886 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:18:55,982 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:18:55,982 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:19:02,015 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:19:08,259 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:19:12,742 loginView.py[line:40] INFO login success
+2019-03-05 14:19:12,743 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:19:15,140 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:19:15,140 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:33:26,438 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:33:26,448 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:33:40,580 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:33:40,581 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:33:40,588 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:33:46,689 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:33:49,866 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:34:10,156 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:34:10,221 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:34:10,221 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:34:16,204 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:34:22,427 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:34:27,206 loginView.py[line:40] INFO login success
+2019-03-05 14:34:27,207 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:34:29,594 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:34:29,594 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:34:44,370 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:34:44,375 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:34:56,739 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:34:56,740 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:34:56,743 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:35:01,765 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:35:04,933 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:35:24,977 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:35:25,056 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:35:25,056 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:35:31,434 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:35:37,709 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:35:42,040 loginView.py[line:40] INFO login success
+2019-03-05 14:35:42,040 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:35:44,168 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:35:44,168 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:36:33,281 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:36:33,288 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:36:45,404 test_login.py[line:25] INFO ==========test_login_error========
+2019-03-05 14:36:45,404 common_fun.py[line:57] INFO ============get_csv_data===============
+2019-03-05 14:36:45,407 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:36:53,293 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:36:57,002 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:37:18,405 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:37:18,495 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:37:18,496 loginView.py[line:24] INFO input username 666
+2019-03-05 14:37:24,474 loginView.py[line:26] INFO input password 222
+2019-03-05 14:37:30,725 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:37:40,857 loginView.py[line:36] ERROR login fail
+2019-03-05 14:37:40,857 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 14:38:53,466 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:39:04,829 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:39:11,416 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:39:14,562 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:39:32,932 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:39:33,023 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:39:33,024 loginView.py[line:24] INFO input username 666
+2019-03-05 14:39:38,978 loginView.py[line:26] INFO input password 222
+2019-03-05 14:39:44,999 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:39:55,364 loginView.py[line:36] ERROR login fail
+2019-03-05 14:46:53,071 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:47:05,510 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:47:13,464 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:47:16,604 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:47:34,137 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:47:34,238 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:47:34,238 loginView.py[line:24] INFO input username 666
+2019-03-05 14:47:40,139 loginView.py[line:26] INFO input password 222
+2019-03-05 14:47:46,426 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:47:56,852 loginView.py[line:36] ERROR login fail
+2019-03-05 14:51:49,803 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:52:01,709 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:52:06,729 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:52:09,855 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:52:33,182 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:52:33,278 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:52:33,278 loginView.py[line:24] INFO input username 666
+2019-03-05 14:52:39,192 loginView.py[line:26] INFO input password 222
+2019-03-05 14:52:45,245 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:52:55,631 loginView.py[line:36] ERROR login fail
+2019-03-05 14:52:55,631 common_fun.py[line:59] INFO get login fail screenshot
+2019-03-05 14:53:33,354 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 14:53:33,358 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 14:53:44,894 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 14:53:44,894 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 14:53:44,898 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 14:53:49,922 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 14:53:53,056 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 14:54:14,594 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 14:54:14,677 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 14:54:14,677 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 14:54:20,865 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 14:54:26,981 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 14:54:31,297 loginView.py[line:40] INFO login success
+2019-03-05 14:54:31,297 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 14:54:33,614 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 14:54:33,614 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:05:41,481 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:05:41,484 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:05:54,576 test_login.py[line:10] INFO ==========test_login_zxw2017========
+2019-03-05 15:05:54,576 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:05:54,579 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:06:10,216 common_fun.py[line:22] INFO updata element is not found
+2019-03-05 15:06:10,216 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:06:25,915 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:06:25,947 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:06:25,947 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 15:06:36,855 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:08:05,907 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:08:05,911 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:08:18,322 test_login.py[line:25] INFO ==========test_login_error========
+2019-03-05 15:08:18,323 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:08:18,327 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:08:33,608 common_fun.py[line:22] INFO updata element is not found
+2019-03-05 15:08:33,609 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:08:49,109 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:08:49,142 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:08:49,142 loginView.py[line:24] INFO input username 666
+2019-03-05 15:08:59,965 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:09:05,690 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:09:05,694 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:09:18,850 test_login.py[line:18] INFO ==========test_login_zxw2018========
+2019-03-05 15:09:18,850 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:09:18,852 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:09:34,209 common_fun.py[line:22] INFO updata element is not found
+2019-03-05 15:09:34,209 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:09:49,420 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:09:49,453 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:09:49,453 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 15:10:00,495 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:11:22,158 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:11:22,163 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:11:34,406 test_login.py[line:18] INFO ==========test_login_zxw2018========
+2019-03-05 15:11:34,406 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:11:34,409 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:11:39,428 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:11:42,553 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:11:57,976 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:11:58,044 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:11:58,044 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 15:12:03,756 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 15:12:09,969 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:12:14,482 loginView.py[line:40] INFO login success
+2019-03-05 15:12:14,482 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 15:12:16,900 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 15:12:16,900 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:12:53,503 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:12:53,511 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:13:05,574 test_login.py[line:18] INFO ==========test_login_zxw2018========
+2019-03-05 15:13:05,574 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:13:05,577 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:13:10,597 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:13:13,728 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:13:33,777 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:13:33,875 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:13:33,875 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 15:13:40,081 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 15:13:46,177 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:13:49,951 loginView.py[line:40] INFO login success
+2019-03-05 15:13:49,952 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 15:13:52,292 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 15:13:52,292 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:36:34,047 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:36:34,052 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:36:44,514 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-05 15:36:44,514 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:36:44,517 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:36:49,535 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:36:52,671 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:37:09,508 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:37:09,572 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:37:09,573 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 15:37:15,744 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 15:37:21,943 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:37:27,513 loginView.py[line:40] INFO login success
+2019-03-05 15:37:27,513 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 15:37:30,312 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 15:37:30,312 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:38:25,241 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:38:25,247 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:38:37,346 test_login.py[line:26] INFO ==========test_login_error========
+2019-03-05 15:38:37,346 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:38:37,350 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:38:42,369 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:38:45,501 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:39:02,849 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:39:02,960 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:39:02,960 loginView.py[line:24] INFO input username 666
+2019-03-05 15:39:08,948 loginView.py[line:26] INFO input password 222
+2019-03-05 15:39:15,188 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:39:25,629 loginView.py[line:36] ERROR login fail
+2019-03-05 15:39:25,630 common_fun.py[line:59] INFO get login fail screenshot
+2019-03-05 15:39:27,035 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:40:20,262 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:40:20,276 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:40:32,688 test_login.py[line:26] INFO ==========test_login_error========
+2019-03-05 15:40:32,689 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:40:32,691 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:40:37,711 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:40:40,842 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:41:07,004 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:41:07,098 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:41:07,099 loginView.py[line:24] INFO input username 666
+2019-03-05 15:41:12,624 loginView.py[line:26] INFO input password 222
+2019-03-05 15:41:19,068 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:41:29,610 loginView.py[line:36] ERROR login fail
+2019-03-05 15:41:29,610 common_fun.py[line:59] INFO get login fail screenshot
+2019-03-05 15:41:30,932 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:41:36,711 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:41:36,718 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:41:48,760 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-05 15:41:48,761 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:41:48,762 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:41:53,784 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:41:56,916 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:42:14,644 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:42:14,743 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:42:14,743 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 15:42:20,848 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 15:42:27,045 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:42:31,356 loginView.py[line:40] INFO login success
+2019-03-05 15:42:31,357 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 15:42:33,626 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 15:42:33,626 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 15:42:39,240 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 15:42:39,246 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 15:42:51,192 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-05 15:42:51,192 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 15:42:51,193 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 15:42:56,216 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 15:42:59,357 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 15:43:17,131 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 15:43:17,224 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 15:43:17,224 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 15:43:23,286 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 15:43:29,523 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 15:43:33,867 loginView.py[line:40] INFO login success
+2019-03-05 15:43:33,867 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 15:43:36,312 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 15:43:36,312 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 17:47:33,885 run.py[line:16] INFO start run testcase...
+2019-03-05 17:47:33,886 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 17:47:33,893 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 17:47:44,798 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-05 17:47:44,798 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 17:47:44,802 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 17:47:49,823 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 17:47:52,953 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 17:48:10,933 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 17:48:11,014 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 17:48:11,015 loginView.py[line:24] INFO input username 666
+2019-03-05 17:48:16,917 loginView.py[line:26] INFO input password 222
+2019-03-05 17:48:23,177 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 17:48:33,740 loginView.py[line:36] ERROR login fail
+2019-03-05 17:48:33,740 common_fun.py[line:59] INFO get login fail screenshot
+2019-03-05 17:48:35,260 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 17:48:41,033 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 17:48:41,038 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 17:48:53,792 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-05 17:48:53,792 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 17:48:53,793 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 17:48:58,819 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 17:49:01,951 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 17:49:17,371 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 17:49:17,444 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 17:49:17,445 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 17:49:23,085 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 17:49:29,265 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 17:49:34,043 loginView.py[line:40] INFO login success
+2019-03-05 17:49:34,043 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 17:49:36,189 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 17:49:36,190 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 17:49:41,828 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 17:49:41,834 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 17:49:54,694 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-05 17:49:54,695 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 17:49:54,696 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 17:49:59,715 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 17:50:02,841 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 17:50:22,393 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 17:50:22,462 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 17:50:22,463 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 17:50:28,663 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 17:50:34,883 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 17:50:39,401 loginView.py[line:40] INFO login success
+2019-03-05 17:50:39,402 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 17:50:41,937 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 17:50:41,937 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 17:50:47,630 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 17:50:47,637 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 17:50:59,866 test_register.py[line:10] INFO =========test_user_register======
+2019-03-05 17:50:59,866 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 17:51:04,886 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 17:51:08,014 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 17:51:29,592 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 17:51:29,663 registerView.py[line:38] INFO ===============register start===============
+2019-03-05 17:51:30,627 registerView.py[line:47] INFO register username is ceshi542
+2019-03-05 17:51:36,170 registerView.py[line:49] INFO register password is pass1234
+2019-03-05 17:51:42,184 registerView.py[line:51] INFO register email is 953284@qq.com
+2019-03-05 17:51:48,289 registerView.py[line:53] INFO click register button
+2019-03-05 17:51:52,945 registerView.py[line:70] INFO ===============add register info===============
+2019-03-05 17:51:52,945 registerView.py[line:71] INFO select school...
+2019-03-05 17:52:06,674 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 17:53:44,272 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 17:53:44,275 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 17:53:55,252 test_register.py[line:10] INFO =========test_user_register======
+2019-03-05 17:53:55,252 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 17:54:00,281 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 17:54:03,414 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 17:54:23,431 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 17:54:23,509 registerView.py[line:38] INFO ===============register start===============
+2019-03-05 17:54:24,448 registerView.py[line:47] INFO register username is ceshi429
+2019-03-05 17:54:29,888 registerView.py[line:49] INFO register password is pass1234
+2019-03-05 17:54:35,911 registerView.py[line:51] INFO register email is 384820@qq.com
+2019-03-05 17:54:42,116 registerView.py[line:53] INFO click register button
+2019-03-05 17:54:45,904 registerView.py[line:70] INFO ===============add register info===============
+2019-03-05 17:54:45,904 registerView.py[line:71] INFO select school...
+2019-03-05 17:54:48,284 registerView.py[line:76] INFO select major...
+2019-03-05 17:54:57,852 registerView.py[line:94] INFO register success
+2019-03-05 17:54:57,852 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 18:57:36,020 run.py[line:18] INFO start run testcase...
+2019-03-05 18:57:36,021 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:57:36,033 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:57:37,559 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:57:37,568 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:57:38,601 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:57:38,611 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:57:39,578 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:57:39,590 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:58:18,965 run.py[line:18] INFO start run testcase...
+2019-03-05 18:58:18,966 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:58:18,977 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:58:20,081 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:58:20,090 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:58:21,312 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:58:21,325 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:58:22,536 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:58:22,551 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:59:34,291 run.py[line:18] INFO start run testcase...
+2019-03-05 18:59:34,292 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 18:59:34,295 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 18:59:48,770 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-05 18:59:48,771 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 18:59:48,789 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 18:59:53,902 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 18:59:57,090 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 19:00:05,068 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 19:00:05,205 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 19:00:05,206 loginView.py[line:24] INFO input username 666
+2019-03-05 19:00:11,267 loginView.py[line:26] INFO input password 222
+2019-03-05 19:00:17,507 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 19:00:18,172 loginView.py[line:36] ERROR login fail
+2019-03-05 19:00:18,173 common_fun.py[line:59] INFO get login fail screenshot
+2019-03-05 19:00:19,497 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 19:00:25,275 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 19:00:25,290 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 19:00:39,501 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-05 19:00:39,501 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 19:00:39,505 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 19:00:44,621 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 19:00:47,827 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 19:00:55,230 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 19:00:55,361 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 19:00:55,361 loginView.py[line:24] INFO input username 自学网2017
+2019-03-05 19:01:01,452 loginView.py[line:26] INFO input password zxw2017
+2019-03-05 19:01:07,795 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 19:01:10,586 loginView.py[line:40] INFO login success
+2019-03-05 19:01:10,587 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 19:01:13,231 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 19:01:13,232 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 19:01:19,001 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 19:01:19,018 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 19:01:31,918 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-05 19:01:31,919 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-05 19:01:31,922 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 19:01:37,028 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 19:01:40,207 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 19:01:47,636 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 19:01:47,772 loginView.py[line:23] INFO ===============login start===============
+2019-03-05 19:01:47,772 loginView.py[line:24] INFO input username 自学网2018
+2019-03-05 19:01:53,863 loginView.py[line:26] INFO input password zxw2018
+2019-03-05 19:02:00,246 loginView.py[line:29] INFO ===============login end===============
+2019-03-05 19:02:02,974 loginView.py[line:40] INFO login success
+2019-03-05 19:02:02,974 loginView.py[line:45] INFO ===============logout start===============
+2019-03-05 19:02:05,890 loginView.py[line:49] INFO ===============logout end===============
+2019-03-05 19:02:05,891 myunit.py[line:12] INFO ======tearDown=========
+2019-03-05 19:02:11,659 myunit.py[line:8] INFO ======setUp=========
+2019-03-05 19:02:11,673 desired_caps.py[line:33] INFO start run app ...
+2019-03-05 19:02:24,880 test_register.py[line:10] INFO =========test_user_register======
+2019-03-05 19:02:24,881 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-05 19:02:29,989 common_fun.py[line:24] INFO click cancleBtn
+2019-03-05 19:02:33,160 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-05 19:02:40,827 common_fun.py[line:33] INFO skip element is not found
+2019-03-05 19:02:40,976 registerView.py[line:38] INFO ===============register start===============
+2019-03-05 19:02:41,983 registerView.py[line:47] INFO register username is ceshi687
+2019-03-05 19:02:47,596 registerView.py[line:49] INFO register password is pass1234
+2019-03-05 19:02:53,709 registerView.py[line:51] INFO register email is 306253@qq.com
+2019-03-05 19:02:59,513 registerView.py[line:53] INFO click register button
+2019-03-05 19:03:00,939 registerView.py[line:59] INFO register fail
+2019-03-05 19:03:00,940 common_fun.py[line:59] INFO get register fail screenshot
+2019-03-05 19:03:02,230 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:53:15,468 run.py[line:18] INFO start run testcase...
+2019-03-09 16:53:15,468 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:53:15,484 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:53:32,816 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-09 16:53:32,816 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-09 16:53:32,878 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:53:38,006 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:53:38,006 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:53:43,055 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:53:43,165 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 16:53:43,165 loginView.py[line:24] INFO input username 666
+2019-03-09 16:53:43,243 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:53:49,056 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:53:49,056 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:54:00,614 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-09 16:54:00,614 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-09 16:54:00,614 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:54:05,679 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:54:05,679 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:54:10,961 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:54:11,039 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 16:54:11,039 loginView.py[line:24] INFO input username 自学网2017
+2019-03-09 16:54:11,541 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:54:17,245 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:54:17,245 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:54:25,005 run.py[line:18] INFO start run testcase...
+2019-03-09 16:54:25,005 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:54:25,020 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:54:36,559 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-09 16:54:36,559 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-09 16:54:36,575 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:54:41,639 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:54:41,639 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:54:47,407 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:54:47,501 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 16:54:47,501 loginView.py[line:24] INFO input username 666
+2019-03-09 16:54:47,563 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:54:53,268 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:54:53,268 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:55:36,128 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:55:36,160 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:56:11,988 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:56:11,988 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:56:25,682 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-09 16:56:25,698 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-09 16:56:25,698 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:56:30,777 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:56:30,777 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:56:36,452 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:56:36,530 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 16:56:36,530 loginView.py[line:24] INFO input username 自学网2018
+2019-03-09 16:56:36,608 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:56:48,675 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:56:48,675 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:57:01,437 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-09 16:57:01,437 common_fun.py[line:63] INFO ============get_csv_data===============
+2019-03-09 16:57:01,437 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:57:06,517 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:57:06,517 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:57:12,207 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:57:12,301 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 16:57:12,301 loginView.py[line:24] INFO input username 自学网2018
+2019-03-09 16:57:12,379 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:57:28,355 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:57:28,355 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:57:41,797 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 16:57:41,797 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:57:46,862 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:57:46,862 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:57:52,035 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:57:52,160 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 16:57:52,723 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 16:58:21,788 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 16:58:21,788 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 16:58:35,190 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 16:58:35,190 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 16:58:40,256 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 16:58:40,256 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 16:58:45,337 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 16:58:45,462 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 16:58:45,540 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:00:31,344 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:00:42,128 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:01:16,372 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:01:29,391 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:01:39,474 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 17:01:39,474 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:01:44,554 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 17:01:44,648 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:01:49,056 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:02:00,038 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:02:10,199 common_fun.py[line:22] INFO updata element is not found
+2019-03-09 17:02:10,199 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:02:15,279 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 17:02:15,357 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:02:41,163 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:02:52,966 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:03:23,055 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:03:26,228 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:03:34,888 common_fun.py[line:33] INFO skip element is not found
+2019-03-09 17:03:35,014 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:03:35,952 registerView.py[line:47] INFO register username is ceshi269
+2019-03-09 17:03:41,703 registerView.py[line:49] INFO register password is pass1234
+2019-03-09 17:03:47,659 registerView.py[line:51] INFO register email is 487526@qq.com
+2019-03-09 17:03:53,458 registerView.py[line:53] INFO click register button
+2019-03-09 17:03:55,115 registerView.py[line:59] INFO register fail
+2019-03-09 17:03:55,115 common_fun.py[line:59] INFO get register fail screenshot
+2019-03-09 17:07:50,634 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:08:01,017 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:08:31,092 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:08:34,250 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:08:42,143 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:08:42,253 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:08:43,191 registerView.py[line:47] INFO register username is ceshi188
+2019-03-09 17:08:48,834 registerView.py[line:49] INFO register password is pass1234
+2019-03-09 17:08:54,742 registerView.py[line:51] INFO register email is 678790@qq.com
+2019-03-09 17:09:00,558 registerView.py[line:53] INFO click register button
+2019-03-09 17:09:01,964 registerView.py[line:60] INFO register fail
+2019-03-09 17:13:25,180 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:13:36,942 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:14:07,001 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:14:10,158 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:14:18,598 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:14:18,693 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:14:19,647 registerView.py[line:47] INFO register username is ceshi322
+2019-03-09 17:14:25,227 registerView.py[line:49] INFO register password is pass1234
+2019-03-09 17:14:31,104 registerView.py[line:51] INFO register email is 597233@qq.com
+2019-03-09 17:14:37,062 registerView.py[line:53] INFO click register button
+2019-03-09 17:14:38,688 registerView.py[line:71] INFO ===============add register info===============
+2019-03-09 17:14:38,688 registerView.py[line:72] INFO select school...
+2019-03-09 17:14:41,252 registerView.py[line:77] INFO select major...
+2019-03-09 17:14:48,083 registerView.py[line:95] INFO register success
+2019-03-09 17:16:11,320 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:16:22,063 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:16:52,139 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:16:55,298 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:17:03,458 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:17:03,568 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:17:03,568 loginView.py[line:24] INFO input username 自学网2017
+2019-03-09 17:17:09,617 loginView.py[line:26] INFO input password zxw2017
+2019-03-09 17:17:15,792 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:17:18,199 loginView.py[line:40] INFO login success
+2019-03-09 17:17:18,199 loginView.py[line:45] INFO ===============logout start===============
+2019-03-09 17:17:20,856 loginView.py[line:49] INFO ===============logout end===============
+2019-03-09 17:17:39,442 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:17:39,442 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:17:50,612 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 17:17:50,612 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:18:20,722 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:18:23,910 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:18:27,523 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:18:27,648 registerView.py[line:38] INFO ===============register start===============
+2019-03-09 17:18:28,585 registerView.py[line:47] INFO register username is ceshi143
+2019-03-09 17:18:34,213 registerView.py[line:49] INFO register password is pass1234
+2019-03-09 17:18:40,342 registerView.py[line:51] INFO register email is 387999@qq.com
+2019-03-09 17:18:46,079 registerView.py[line:53] INFO click register button
+2019-03-09 17:18:47,532 registerView.py[line:60] INFO register fail
+2019-03-09 17:18:47,532 common_fun.py[line:58] INFO get register fail screenshot
+2019-03-09 17:18:48,704 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:19:39,545 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:19:39,545 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:19:52,019 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 17:19:52,019 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:20:22,082 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:20:25,239 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:20:28,382 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:20:28,507 registerView.py[line:39] INFO ===============register start===============
+2019-03-09 17:20:29,444 registerView.py[line:48] INFO register username is ceshi388
+2019-03-09 17:20:35,057 registerView.py[line:50] INFO register password is pass1234
+2019-03-09 17:20:41,092 registerView.py[line:52] INFO register email is 163396@qq.com
+2019-03-09 17:20:47,063 registerView.py[line:54] INFO click register button
+2019-03-09 17:20:58,021 registerView.py[line:61] INFO register fail
+2019-03-09 17:20:58,021 common_fun.py[line:58] INFO get register fail screenshot
+2019-03-09 17:20:59,084 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:21:15,714 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:21:15,714 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:21:28,749 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 17:21:28,749 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:21:58,840 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:22:02,029 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:22:10,971 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:22:11,096 registerView.py[line:39] INFO ===============register start===============
+2019-03-09 17:22:12,067 registerView.py[line:48] INFO register username is ceshi242
+2019-03-09 17:22:17,616 registerView.py[line:50] INFO register password is pass1234
+2019-03-09 17:22:23,681 registerView.py[line:52] INFO register email is 912610@qq.com
+2019-03-09 17:22:29,559 registerView.py[line:54] INFO click register button
+2019-03-09 17:22:40,659 registerView.py[line:61] INFO register fail
+2019-03-09 17:22:40,659 common_fun.py[line:58] INFO get register fail screenshot
+2019-03-09 17:22:41,753 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:23:19,394 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:23:19,394 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:23:33,018 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-09 17:23:33,018 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:23:33,018 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:24:03,109 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:24:06,267 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:24:14,944 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:24:15,069 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:24:15,069 loginView.py[line:24] INFO input username 666
+2019-03-09 17:24:21,086 loginView.py[line:26] INFO input password 222
+2019-03-09 17:24:27,371 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:24:28,152 loginView.py[line:36] ERROR login fail
+2019-03-09 17:24:28,152 common_fun.py[line:58] INFO get login fail screenshot
+2019-03-09 17:24:29,294 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:24:34,921 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:24:34,921 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:24:47,712 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-09 17:24:47,712 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:24:47,712 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:25:17,759 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:25:20,916 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:25:30,124 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:25:30,218 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:25:30,218 loginView.py[line:24] INFO input username 自学网2017
+2019-03-09 17:25:35,845 loginView.py[line:26] INFO input password zxw2017
+2019-03-09 17:25:42,083 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:25:45,758 loginView.py[line:40] INFO login success
+2019-03-09 17:25:45,758 loginView.py[line:45] INFO ===============logout start===============
+2019-03-09 17:25:47,977 loginView.py[line:49] INFO ===============logout end===============
+2019-03-09 17:25:47,977 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:25:53,605 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:25:53,605 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:26:05,701 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-09 17:26:05,701 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:26:05,701 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:26:35,733 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:26:38,875 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:26:48,113 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:26:48,207 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:26:48,207 loginView.py[line:24] INFO input username 自学网2018
+2019-03-09 17:26:54,398 loginView.py[line:26] INFO input password zxw2018
+2019-03-09 17:27:00,713 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:27:03,588 loginView.py[line:40] INFO login success
+2019-03-09 17:27:03,588 loginView.py[line:45] INFO ===============logout start===============
+2019-03-09 17:27:06,277 loginView.py[line:49] INFO ===============logout end===============
+2019-03-09 17:27:06,277 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:41:57,024 run.py[line:18] INFO start run testcase...
+2019-03-09 17:41:57,024 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:41:57,040 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:42:05,897 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-09 17:42:05,897 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:42:05,897 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:42:35,940 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:42:39,081 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:42:48,491 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:42:48,601 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:42:48,601 loginView.py[line:24] INFO input username 666
+2019-03-09 17:42:54,103 loginView.py[line:26] INFO input password 222
+2019-03-09 17:43:00,481 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:43:01,216 loginView.py[line:36] ERROR login fail
+2019-03-09 17:43:01,216 common_fun.py[line:58] INFO get login fail screenshot
+2019-03-09 17:43:02,278 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:43:07,906 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:43:07,906 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:43:19,930 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-09 17:43:19,930 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:43:19,930 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:43:49,975 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:43:53,133 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:43:55,962 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:43:56,071 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:43:56,071 loginView.py[line:24] INFO input username 自学网2017
+2019-03-09 17:44:01,699 loginView.py[line:26] INFO input password zxw2017
+2019-03-09 17:44:07,983 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:44:10,798 loginView.py[line:40] INFO login success
+2019-03-09 17:44:10,798 loginView.py[line:45] INFO ===============logout start===============
+2019-03-09 17:44:13,063 loginView.py[line:49] INFO ===============logout end===============
+2019-03-09 17:44:13,063 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:44:18,661 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:44:18,676 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:44:30,581 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-09 17:44:30,581 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-09 17:44:30,581 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:45:00,626 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:45:03,783 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:45:14,242 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:45:14,335 loginView.py[line:23] INFO ===============login start===============
+2019-03-09 17:45:14,335 loginView.py[line:24] INFO input username 自学网2018
+2019-03-09 17:45:20,493 loginView.py[line:26] INFO input password zxw2018
+2019-03-09 17:45:26,635 loginView.py[line:29] INFO ===============login end===============
+2019-03-09 17:45:29,731 loginView.py[line:40] INFO login success
+2019-03-09 17:45:29,731 loginView.py[line:45] INFO ===============logout start===============
+2019-03-09 17:45:32,669 loginView.py[line:49] INFO ===============logout end===============
+2019-03-09 17:45:32,669 myunit.py[line:12] INFO ======tearDown=========
+2019-03-09 17:45:38,220 myunit.py[line:8] INFO ======setUp=========
+2019-03-09 17:45:38,235 desired_caps.py[line:33] INFO start run app ...
+2019-03-09 17:45:50,209 test_register.py[line:10] INFO =========test_user_register======
+2019-03-09 17:45:50,209 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-09 17:46:20,286 common_fun.py[line:24] INFO click cancleBtn
+2019-03-09 17:46:23,443 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-09 17:46:26,304 common_fun.py[line:32] INFO skip element is not found
+2019-03-09 17:46:26,429 registerView.py[line:39] INFO ===============register start===============
+2019-03-09 17:46:27,382 registerView.py[line:48] INFO register username is ceshi298
+2019-03-09 17:46:32,915 registerView.py[line:50] INFO register password is pass1234
+2019-03-09 17:46:38,808 registerView.py[line:52] INFO register email is 456340@qq.com
+2019-03-09 17:46:45,077 registerView.py[line:54] INFO click register button
+2019-03-09 17:46:55,923 registerView.py[line:72] INFO ===============add register info===============
+2019-03-09 17:46:55,923 registerView.py[line:73] INFO select school...
+2019-03-09 17:46:58,440 registerView.py[line:78] INFO select major...
+2019-03-09 17:47:05,541 registerView.py[line:96] INFO register success
+2019-03-09 17:47:05,541 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 14:22:51,239 run.py[line:18] INFO start run testcase...
+2019-03-10 14:22:51,239 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:22:51,269 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:23:04,467 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-10 14:23:04,467 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 14:23:04,530 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 14:23:34,590 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 14:23:37,747 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 14:23:49,426 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 14:23:49,519 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 14:23:49,519 loginView.py[line:24] INFO input username 666
+2019-03-10 14:23:55,053 loginView.py[line:26] INFO input password 222
+2019-03-10 14:24:01,259 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 14:24:01,962 loginView.py[line:36] ERROR login fail
+2019-03-10 14:24:01,962 common_fun.py[line:58] INFO get login fail screenshot
+2019-03-10 14:24:03,041 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 14:24:08,652 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:24:08,668 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:24:20,140 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-10 14:24:20,140 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 14:24:20,140 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 14:24:50,199 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 14:24:53,356 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 14:25:03,516 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 14:25:03,610 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 14:25:03,610 loginView.py[line:24] INFO input username 自学网2017
+2019-03-10 14:25:09,222 loginView.py[line:26] INFO input password zxw2017
+2019-03-10 14:25:15,458 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 14:25:18,148 loginView.py[line:40] INFO login success
+2019-03-10 14:25:18,148 loginView.py[line:45] INFO ===============logout start===============
+2019-03-10 14:25:20,679 loginView.py[line:49] INFO ===============logout end===============
+2019-03-10 14:25:20,679 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 14:25:26,323 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:25:26,338 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:25:37,896 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-10 14:25:37,896 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 14:25:37,896 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 14:26:07,955 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 14:26:11,112 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 14:26:19,569 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 14:26:19,678 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 14:26:19,678 loginView.py[line:24] INFO input username 自学网2018
+2019-03-10 14:26:25,305 loginView.py[line:26] INFO input password zxw2018
+2019-03-10 14:26:31,542 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 14:26:34,215 loginView.py[line:40] INFO login success
+2019-03-10 14:26:34,215 loginView.py[line:45] INFO ===============logout start===============
+2019-03-10 14:26:36,857 loginView.py[line:49] INFO ===============logout end===============
+2019-03-10 14:26:36,857 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 14:26:42,437 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:26:42,452 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:26:54,653 test_register.py[line:10] INFO =========test_user_register======
+2019-03-10 14:26:54,653 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 14:27:24,711 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 14:27:27,868 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 14:27:30,244 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 14:27:30,339 registerView.py[line:39] INFO ===============register start===============
+2019-03-10 14:27:31,292 registerView.py[line:48] INFO register username is ceshi624
+2019-03-10 14:27:36,763 registerView.py[line:50] INFO register password is pass1234
+2019-03-10 14:27:42,860 registerView.py[line:52] INFO register email is 314355@qq.com
+2019-03-10 14:27:48,783 registerView.py[line:54] INFO click register button
+2019-03-10 14:27:59,581 registerView.py[line:72] INFO ===============add register info===============
+2019-03-10 14:27:59,581 registerView.py[line:73] INFO select school...
+2019-03-10 14:28:02,128 registerView.py[line:78] INFO select major...
+2019-03-10 14:28:08,897 registerView.py[line:96] INFO register success
+2019-03-10 14:28:08,897 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 14:45:30,821 run.py[line:18] INFO start run testcase...
+2019-03-10 14:45:30,821 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:45:30,821 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:45:31,870 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:45:31,870 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:45:32,822 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:45:32,825 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:45:33,842 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:45:33,858 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 14:56:35,208 run.py[line:19] INFO start run testcase...
+2019-03-10 14:56:35,224 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 14:56:35,224 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 15:03:12,087 run.py[line:19] INFO start run testcase...
+2019-03-10 15:03:12,087 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 15:03:12,103 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 15:03:23,150 test_login.py[line:27] INFO ==========test_login_error========
+2019-03-10 15:03:23,150 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 15:03:23,150 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 15:03:53,200 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 15:03:56,338 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 15:04:04,891 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 15:04:04,991 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 15:04:05,007 loginView.py[line:24] INFO input username 666
+2019-03-10 15:04:10,443 loginView.py[line:26] INFO input password 222
+2019-03-10 15:04:16,768 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 15:04:17,485 loginView.py[line:36] ERROR login fail
+2019-03-10 15:04:17,485 common_fun.py[line:58] INFO get login fail screenshot
+2019-03-10 15:04:18,571 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 15:04:24,229 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 15:04:24,229 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 15:04:35,687 test_login.py[line:11] INFO ==========test_login_zxw2017========
+2019-03-10 15:04:35,688 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 15:04:35,688 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 15:05:05,744 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 15:05:08,883 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 15:05:20,370 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 15:05:20,436 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 15:05:20,436 loginView.py[line:24] INFO input username 自学网2017
+2019-03-10 15:05:26,562 loginView.py[line:26] INFO input password zxw2017
+2019-03-10 15:05:32,727 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 15:05:35,202 loginView.py[line:40] INFO login success
+2019-03-10 15:05:35,202 loginView.py[line:45] INFO ===============logout start===============
+2019-03-10 15:05:37,884 loginView.py[line:49] INFO ===============logout end===============
+2019-03-10 15:05:37,884 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 15:05:43,484 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 15:05:43,499 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 15:05:55,463 test_login.py[line:19] INFO ==========test_login_zxw2018========
+2019-03-10 15:05:55,463 common_fun.py[line:62] INFO ============get_csv_data===============
+2019-03-10 15:05:55,463 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 15:06:25,506 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 15:06:28,662 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 15:06:31,038 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 15:06:31,123 loginView.py[line:23] INFO ===============login start===============
+2019-03-10 15:06:31,123 loginView.py[line:24] INFO input username 自学网2018
+2019-03-10 15:06:36,679 loginView.py[line:26] INFO input password zxw2018
+2019-03-10 15:06:42,957 loginView.py[line:29] INFO ===============login end===============
+2019-03-10 15:06:45,644 loginView.py[line:40] INFO login success
+2019-03-10 15:06:45,644 loginView.py[line:45] INFO ===============logout start===============
+2019-03-10 15:06:48,311 loginView.py[line:49] INFO ===============logout end===============
+2019-03-10 15:06:48,311 myunit.py[line:12] INFO ======tearDown=========
+2019-03-10 15:06:53,919 myunit.py[line:8] INFO ======setUp=========
+2019-03-10 15:06:53,919 desired_caps.py[line:33] INFO start run app ...
+2019-03-10 15:07:06,067 test_register.py[line:10] INFO =========test_user_register======
+2019-03-10 15:07:06,067 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2019-03-10 15:07:36,105 common_fun.py[line:24] INFO click cancleBtn
+2019-03-10 15:07:39,248 common_fun.py[line:28] INFO ============check_skiplBtn===============
+2019-03-10 15:07:48,924 common_fun.py[line:32] INFO skip element is not found
+2019-03-10 15:07:49,041 registerView.py[line:39] INFO ===============register start===============
+2019-03-10 15:07:49,995 registerView.py[line:48] INFO register username is ceshi418
+2019-03-10 15:07:55,438 registerView.py[line:50] INFO register password is pass1234
+2019-03-10 15:08:01,430 registerView.py[line:52] INFO register email is 983293@qq.com
+2019-03-10 15:08:07,136 registerView.py[line:54] INFO click register button
+2019-03-10 15:08:17,936 registerView.py[line:72] INFO ===============add register info===============
+2019-03-10 15:08:17,936 registerView.py[line:73] INFO select school...
+2019-03-10 15:08:20,523 registerView.py[line:78] INFO select major...
+2019-03-10 15:08:27,467 registerView.py[line:96] INFO register success
+2019-03-10 15:08:27,467 myunit.py[line:12] INFO ======tearDown=========
